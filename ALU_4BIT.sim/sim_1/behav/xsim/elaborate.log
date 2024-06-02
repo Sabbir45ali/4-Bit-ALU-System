@@ -1,0 +1,23 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot ALU_4BIT_behav xil_defaultlib.ALU_4BIT -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-494] choice "0000" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:46]
+ERROR: [VRFC 10-494] choice "0001" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:47]
+ERROR: [VRFC 10-494] choice "0010" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:48]
+ERROR: [VRFC 10-494] choice "0011" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:49]
+ERROR: [VRFC 10-494] choice "0100" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:50]
+ERROR: [VRFC 10-494] choice "0101" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:51]
+ERROR: [VRFC 10-494] choice "0110" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:52]
+ERROR: [VRFC 10-494] choice "0111" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:53]
+ERROR: [VRFC 10-494] choice "1000" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:54]
+ERROR: [VRFC 10-494] choice "1001" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:55]
+ERROR: [VRFC 10-494] choice "1010" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:56]
+ERROR: [VRFC 10-494] choice "1011" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:57]
+ERROR: [VRFC 10-494] choice "1100" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:58]
+ERROR: [VRFC 10-494] choice "1101" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:59]
+ERROR: [VRFC 10-494] choice "1110" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:60]
+ERROR: [VRFC 10-494] choice "1111" should have 0 elements [E:/ALU_4BIT/ALU_4BIT.srcs/sources_1/new/ALU_4BIT.vhd:61]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit alu_4bit in library work failed.
